@@ -8,9 +8,9 @@
 - 📫 Contato: hkaua2549@gmail.com
 
 <div>  
-  <a href="https://github.com/KauaH0093">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaH0093&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaH0093&layout=compact&langs_count=16&theme=tokyonight" />  
+  <a href="https://github.com/kauadonzelli">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauadonzelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauadonzelli&layout=compact&langs_count=16&theme=tokyonight" />  
   </a>  
 </div>  
 
